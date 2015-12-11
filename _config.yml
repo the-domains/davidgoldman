@@ -1,0 +1,28 @@
+name: davidgoldman
+favicon: null
+layout_spectrum: 0.22364054154604673
+typography_spectrum: 0.5410039722919464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7620407133363187
+  lightness: 0.8928532132413238
+  saturation: 0.3113853947725147
+  rhythmicContrast: 0.9284827075898647
+purpose: []
