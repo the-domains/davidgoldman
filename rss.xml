@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[davidgoldman]]></title>
+        <description><![CDATA[davidgoldman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 10:42:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pictures from Sierra Nevada, Spain]]></title>
+            <description><![CDATA[<article><h1>Pictures from Sierra Nevada, Spain</h1><p>Sierra Nevada, Spain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad1cd9291f342d8a8730d3b0e006334128b5257d.jpg"></article>]]></description>
+            <link>https://lh3.googleusercontent.com/SMoHxmMJ3asw7Y0d79wh-Ie4z7mGQP_7lx-5egwtSWPYedAZVHj757iqHZdGikVJFTA2JsoipkOviG-SmGk08lcIH1fwKSQKK0xgoIArudVfwePSgTQJ2HLppzxdTLmQtSa31jZFfQ_2IprXNo0z4BM5fiilaNO5tpM84bCF5js083tqKeIRUNvysLo8_9dIx1iXG8IkQiy7ZAP-dyAGc5DDMKo7BE5TRQllwlLpvTS0uW1uEjWQ7N8BqzcW3P2fL5wdqxjrS3T255uFFoyS4YPj7OdLIvaVq7CW5N-fr2hOTSx2DuDQelSPs2Uz4GDTjmI8pV6gSeNvjlz4Abb6MtW5U6I7Yvq3-y-BhIPNaBANFn72gsfzwRve5A76KeuTusv6dkAcLgWqmWkbsRmo4PYl79hxFKolzCvtxzHcS4i9ZLRbF3fjObYyrl2l-jBR8VzwW6wieFM6hCXjweZ4svtPKJAT0rENIjpXaMZEVe3OvLrspIWmh21-1hfP6cWHfdxoW1rdrmy2EsQM6fLTwZIMrjaDz1Mijsm67SoZqvxsWrfwBVdhmyPaPM-BzUTkeaIEqg=w882-h661-no</link>
+            <guid isPermaLink="false">577998b0-534b-4a3e-9507-b5c94ebb4c83</guid>
+            <pubDate>Fri, 11 Dec 2015 10:42:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
